@@ -1,0 +1,20 @@
+Obj/GNU_ARM_DEBUG/MOBILE.axf  :
+section             size      addr
+.text              65056         0
+.rodata             8753     65056
+.data               2744   2097152
+.bss                7460   2099896
+.debug_abbrev      14358         0
+.debug_info        88994         0
+.debug_line        20710         0
+.debug_frame        8500         0
+.debug_loc         47596         0
+.debug_pubnames     6008         0
+.debug_aranges      1856         0
+.debug_str         25358         0
+.comment              35         0
+.ARM.attributes       16         0
+.debug_ranges       1504         0
+Total             298948
+
+

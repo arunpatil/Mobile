@@ -1,0 +1,21 @@
+[SAT]
+CertificateAppliDir=E:\Program Files\Ingenico\IngeDev_7\plugins\com.ingenico.ingedev.telium.core_7.14.1.0\defaultSystemFiles
+SignedSchemaDir=
+ApplicationDir=E:\Documents and Settings\BNT SOFT\IngeDev7_workspace\MOBILE\Bin\GNU_ARM_DEBUG
+ParametersDir=E:\Documents and Settings\BNT SOFT\IngeDev7_workspace\MOBILE\Bin\GNU_ARM_DEBUG
+DestinationDir=E:\Documents and Settings\BNT SOFT\IngeDev7_workspace\MOBILE\Bin\GNU_ARM_DEBUG
+TempDir=E:\DOCUME~1\BNTSOF~1\LOCALS~1\Temp\Telium
+
+[Schemas]
+NbSchemas=0
+
+
+[Application]
+ParameterFile=MOBILE_T2.TXT
+ApplicationFile=MOBILE.BIN
+CertificateFile=sat.C13
+CatalogFileExtension=1X
+
+[Error]
+Code=0
+msg=files correctly signed.
